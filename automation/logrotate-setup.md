@@ -1,3 +1,5 @@
+# Log rotation for /var/log/sa
+
 WORKPLAN
 1. We can change the configuration files under /etc/logrotate.d accordingly.
 

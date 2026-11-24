@@ -1,3 +1,5 @@
+# Automated package updates with yum-cron
+
 This is a way for doing it manually.
 
 1. Install yum cron

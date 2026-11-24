@@ -1,3 +1,7 @@
+# Remediation: SSH weak key-exchange algorithms (Oracle Linux 6)
+
+> Finding: Nessus plugin 153953 · Change workplan with risks and success criteria
+
 WORKPLAN
 
 1. Take a snapshot of the node
